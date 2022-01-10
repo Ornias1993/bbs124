@@ -1,5 +1,5 @@
 ---
-permalink: /staat/buiten/
+permalink: /buiten/
 title: "Buiten"
 ---
 
