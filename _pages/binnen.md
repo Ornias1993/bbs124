@@ -1,5 +1,5 @@
 ---
-permalink: /staat/binnen/
+permalink: /binnen/
 title: "Binnen"
 ---
 
