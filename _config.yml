@@ -38,6 +38,8 @@ teaser: /assets/images/header.PNG
 
 header:
   teaser: /assets/images/header.PNG
+  overlay_image: /assets/images/header.PNG
+  
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
