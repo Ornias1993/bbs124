@@ -77,15 +77,15 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Funda"
+      icon: "fas fa-laptop-house"
+      url: "https://www.funda.nl/koop/almelo/huis-88027932-bornerbroeksestraat-124/"
+    - label: "Bewoners"
+      icon: "fas fa-house-user"
+      url: "https://schouten-lebbing.nl/"
+    - label: "Eigenaar"
+      icon: "fas fa-coins"
+      url: "https://www.paradijsboerderij.nl/"
 
 defaults:
   # _posts
