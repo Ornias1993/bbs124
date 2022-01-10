@@ -2,7 +2,6 @@
 permalink: /over/
 title: "Over het Pand"
 ---
-<br><br>
 ## Bouw en Buurt
 <br>
 Het pand is in *1930* gebouwd, waarbij in de navolgende jaren het pand, en naastgelegen woningen, vooral door de opzichters classe werden bewoond. Waarbij de arbeiders vooral in de achtergelegen arbeidserhuisjes woonden. De tegenovergelegen woningen zouden initieel eind jaren '90 worden gesloopt, maar uiteindelijk zijn de woningen blijven staan en zijn slechts de tuinen (deels) onteigend (ten behoeve van de doorgaande weg en verbeterde spoorverbinding)<br>
@@ -32,14 +31,14 @@ Kort hierna is ook de verwarmingsfunctie omgelegd naar de nieuwe Combi Ketel en 
 <br>
 De Douche is enkele decenia geleden, vermoedelijk gelijktijdig met de uitbouw, voorzien van een nieuwe douchebak. Deze is boven de oude douchebak bevestigd, waarbij de oude douchebak niet is verwijderd. Deze douchebak nieuwe is omstreeks *2018* vervangen, wegens lekkage/roest.<br>
 <br>
-##### Rioolering<br><br>
+##### Rioolering<br>
 <br>
 Er is riolering aanwezig in de Schuur, Uitbouw, Keuken, toilet en badkamer.<br>
 Alle leidingen zijn PVC, behalve die naar de badkamer, dit betreft (vermoedelijk) een asbesthoudende leiding.<br>
 <br>
 Voor de afvoer van de schuur en regenwaterafvoer is het niet volledig zeker waar deze op uit komt.<br>
 <br>
-## Eigendom en Verkoop<br><br>
+## Eigendom en Verkoop<br>
 <br>
 #### pre-2015<br>
 <br>
