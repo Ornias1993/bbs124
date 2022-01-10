@@ -1,3 +1,5 @@
 main:
-  - title: "About"
-    url: /about/
+  - title: "Over het pand"
+    url: /over/
+  - title: "Staat"
+    url: /staat/
