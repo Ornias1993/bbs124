@@ -50,16 +50,20 @@ Het pand in eigendom van ene "John", welke de meeste verbouwingen op amateuristi
 In 2015 is het pand verkocht aan dhr. M. Kerver, voor een bedrag van 100.000 euro kk.<br>
 Deze heeft het pand tot op heden in bezit en in verhuur.<br>
 <br>
+Huidige kadastraal eigendoms- en waardeverslag is beschikbaar hier:
+https://bornerbroeksestraat124.nl/assets/upload/kadaster-10-01-2022.pdf
+
+<br>
 ## WOZ waarde<br>
 <br>
 Er zijn meerdere WOZ taxatie raportages beschikbaar:<br>
-- 
-- 
-- 
+- https://bornerbroeksestraat124.nl/assets/upload/WOZ-Taxatie-01-01-2018.pdf
+- https://bornerbroeksestraat124.nl/assets/upload/WOZ-Taxatie-01-01-2019.pdf
+- https://bornerbroeksestraat124.nl/assets/upload/WOZ-Taxatie-01-01-2020.pdf
 
 <br>
 Tegen de taxatie van *2019* is door huurder bezwaar aangetekend, wat heeft geleid tot verlaging van de WOZ waarde vanaf 2019.
-Kopie is beschikbaar: <br>
+Kopie is beschikbaar: https://bornerbroeksestraat124.nl/assets/upload/WOZ%20Bezwaar%20K%20Schouten-Lebbing%20Complete.pdf <br>
 
 <br>
 ## Verbruik, isolatie en Energie(label)<br>
