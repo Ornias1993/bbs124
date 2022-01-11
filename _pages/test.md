@@ -1,6 +1,6 @@
 ---
-permalink: /over/
-title: "Over het Pand"
+permalink: /test/
+title: "test"
 gallery:
   - url: /assets/images/unsplash-gallery-image-1.jpg
     image_path: /assets/images/unsplash-gallery-image-1-th.jpg
