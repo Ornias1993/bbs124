@@ -1,7 +1,7 @@
 ---
 permalink: /over/
 title: "Over het Pand"
-gallery:
+gallery2015:
   - url: /assets/images/2015/1.jpg
     image_path: /assets/images/2015/1.jpg
     alt: "2015 Image 1"
@@ -42,7 +42,7 @@ gallery:
     image_path: /assets/images/2015/10.jpg
     alt: "2015 Image 10"
     title: "2015 Image 10"
-gallery2:
+gallery2017:
   - url: /assets/images/2017/1.jpg
     image_path: /assets/images/2017/1.jpg
     alt: "2017 Image 1"
@@ -113,7 +113,7 @@ Het pand in eigendom van ene "John", welke de meeste verbouwingen op amateuristi
 
 ##### Foto's vóór 2015
 
-{% include gallery %}
+{% include gallery id="gallery2015" %}
 
 #### 2015-Heden
 
@@ -129,7 +129,7 @@ https://bornerbroeksestraat124.nl/assets/upload/kadaster-10-01-2022.pdf
 Pand is sinds 2017 verhuurd aan huidige huurder, hieronder enkele foto's hoe het pand is aangetroffen bij aanvang huur.
 Helaas zijn niet alle foto's meer beschikbaar.
 
-{% include gallery2 %}
+{% include gallery id="gallery2017" %}
 
 
 ##### Foto's huidige staat
