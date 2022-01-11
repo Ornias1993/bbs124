@@ -1,6 +1,69 @@
 ---
 permalink: /over/
 title: "Over het Pand"
+gallery:
+  - url: /assets/images/2015/1.jpg
+    image_path: /assets/images/2015/1.jpg
+    alt: "2015 Image 1"
+    title: "2015 Image 1"
+  - url: /assets/images/2015/2.jpg
+    image_path: /assets/images/2015/2.jpg
+    alt: "2015 Image 2"
+    title: "2015 Image 2"
+  - url: /assets/images/2015/3.jpg
+    image_path: /assets/images/2015/3.jpg
+    alt: "2015 Image 3"
+    title: "2015 Image 3"
+  - url: /assets/images/2015/4.jpg
+    image_path: /assets/images/2015/4.jpg
+    alt: "2015 Image 4"
+    title: "2015 Image 4"
+  - url: /assets/images/2015/5.jpg
+    image_path: /assets/images/2015/5.jpg
+    alt: "2015 Image 5"
+    title: "2015 Image 5"
+  - url: /assets/images/2015/6.jpg
+    image_path: /assets/images/2015/6.jpg
+    alt: "2015 Image 6"
+    title: "2015 Image 6"
+  - url: /assets/images/2015/7.jpg
+    image_path: /assets/images/2015/7.jpg
+    alt: "2015 Image 7"
+    title: "2015 Image 7"
+  - url: /assets/images/2015/8.jpg
+    image_path: /assets/images/2015/8.jpg
+    alt: "2015 Image 8"
+    title: "2015 Image 8"
+  - url: /assets/images/2015/9.jpg
+    image_path: /assets/images/2015/9.jpg
+    alt: "2015 Image 9"
+    title: "2015 Image 9"
+  - url: /assets/images/2015/10.jpg
+    image_path: /assets/images/2015/10.jpg
+    alt: "2015 Image 10"
+    title: "2015 Image 10"
+gallery2:
+  - url: /assets/images/2017/1.jpg
+    image_path: /assets/images/2017/1.jpg
+    alt: "2017 Image 1"
+    title: "2017 Image 1"
+  - url: /assets/images/2017/2.jpg
+    image_path: /assets/images/2017/2.jpg
+    alt: "2017 Image 2"
+    title: "2017 Image 2"
+  - url: /assets/images/2017/3.jpg
+    image_path: /assets/images/2017/3.jpg
+    alt: "2017 Image 3"
+    title: "2017 Image 3"
+  - url: /assets/images/2017/4.jpg
+    image_path: /assets/images/2017/4.jpg
+    alt: "2017 Image 4"
+    title: "2017 Image 4"
+  - url: /assets/images/2017/5.jpg
+    image_path: /assets/images/2017/5.jpg
+    alt: "2017 Image 5"
+    title: "2017 Image 5"
+
 ---
 ## Bouw en Buurt
 
@@ -48,6 +111,10 @@ Voor de afvoer van de schuur en regenwaterafvoer is het niet volledig zeker waar
 
 Het pand in eigendom van ene "John", welke de meeste verbouwingen op amateuristische wijze zou hebben uitgevoerd, naar lezing van buurtbewoners
 
+##### Foto's vóór 2015
+
+{% include gallery %}
+
 #### 2015-Heden
 
 In 2015 is het pand verkocht aan dhr. M. Kerver, voor een bedrag van 100.000 euro kk.
@@ -55,6 +122,20 @@ Deze heeft het pand tot op heden in bezit en in verhuur.
 
 Huidige kadastraal eigendoms- en waardeverslag is beschikbaar hier:
 https://bornerbroeksestraat124.nl/assets/upload/kadaster-10-01-2022.pdf
+
+
+##### Foto's 2017
+
+Pand is sinds 2017 verhuurd aan huidige huurder, hieronder enkele foto's hoe het pand is aangetroffen bij aanvang huur.
+Helaas zijn niet alle foto's meer beschikbaar.
+
+{% include gallery2 %}
+
+
+##### Foto's huidige staat
+
+To be done: Enkele recente foto's
+
 
 
 ## WOZ waarde
